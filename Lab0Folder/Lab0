@@ -1,9 +1,0 @@
-
-#open ArcGIS Pro
-Download Memorial Roads in Minnesota shp from MN Geospatial Commons
-Create new map in ArcGIS Pro and add shp
-Open tools and select buffer tool
-input features: shp 
-assign name for output feature class
-select distance: 3 US Survey Miles
-Click Run
